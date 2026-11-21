@@ -8,7 +8,7 @@ I enjoy building practical projects, experimenting with hardware, and learning h
 - 🎓 Electronics and Communication Engineering student
 - 🔧 Interested in Embedded Systems and Microcontrollers
 - 💻 Learning C, Embedded C and hardware interfacing
-- 🚀 Working on practical electronics and embedded projects
+- 🚀 Building practical electronics and embedded projects
 
 ## 🛠️ Technical Interests
 - Embedded Systems
@@ -21,6 +21,7 @@ I enjoy building practical projects, experimenting with hardware, and learning h
 ## 📌 Featured Project
 
 ### Wireless IMU-Based Angle-Controlled Platform
+
 A wireless angle-control prototype integrating ESP32, MPU6050, ESP32-CAM, Arduino Mega, OLED display and servo actuation.
 
 - Wireless target-angle transmission
@@ -28,7 +29,7 @@ A wireless angle-control prototype integrating ESP32, MPU6050, ESP32-CAM, Arduin
 - Servo-based platform response
 - UDP and UART communication
 
-[View Project Repository](YOUR_PROJECT_REPOSITORY_LINK)
+[View Project Repository](https://github.com/Nitinbedsur/Wireless-IMU-Based-Angle-Controlled-Platform)
 
 ## 📚 Currently Learning
 - Embedded C programming
@@ -38,5 +39,5 @@ A wireless angle-control prototype integrating ESP32, MPU6050, ESP32-CAM, Arduin
 - Embedded hardware debugging
 
 ## 📫 Connect With Me
-- LinkedIn:linkedin.com/in/nitin-bedsur
-- GitHub: github.com/Nitinbedsur
+- [LinkedIn](https://www.linkedin.com/in/nitin-bedsur/)
+- [GitHub](https://github.com/Nitinbedsur)
