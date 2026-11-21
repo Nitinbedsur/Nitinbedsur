@@ -1,36 +1,42 @@
-# Hi there 👋, I'm Nitin Bedsur
+# Hi! 👋
 
-🎓 **ECE Undergraduate (Batch of 2027)** at Jain College of Engineering & Technology, Hubballi  
-⚡ Passionate about **Embedded Systems**, **IoT**, **Multi-Face Recognition**, and **FinTech**
+I'm an Electronics and Communication Engineering student interested in embedded systems, microcontrollers, electronics, and hardware-software integration.
 
----
+I enjoy building practical projects, experimenting with hardware, and learning how embedded systems interact with the real world.
 
-### 🛠️ Technical Skills
+## 🎓 About Me
+- 🎓 Electronics and Communication Engineering student
+- 🔧 Interested in Embedded Systems and Microcontrollers
+- 💻 Learning C, Embedded C and hardware interfacing
+- 🚀 Working on practical electronics and embedded projects
 
-* **Programming:** C/C++, Python, Arduino
-* **Embedded & IoT:** ESP32, ESP32-CAM, Microcontroller Programming, Sensor Interfacing, IoT Systems
-* **Hardware & Modules:** PIR, IR, GPS, Alcohol Detection, Fatigue Sensors, TP4056, CP2102, Buzzers
-* **Tools & Technologies:** Arduino IDE, Python, IoT & Internet Technologies
+## 🛠️ Technical Interests
+- Embedded Systems
+- Arduino and ESP32
+- C and Embedded C
+- Sensor Interfacing
+- UART, I2C and Wireless Communication
+- Hardware Debugging and Prototyping
 
----
+## 📌 Featured Project
 
-### 🚀 Featured Projects
+### Wireless IMU-Based Angle-Controlled Platform
+A wireless angle-control prototype integrating ESP32, MPU6050, ESP32-CAM, Arduino Mega, OLED display and servo actuation.
 
-#### 📷 [Multi-Face Recognition Based Smart Student Attendance System]
-* Automated multi-person face recognition system for real-time attendance logging.
-* Integrated **ESP32-CAM** for image capture and a **PIR sensor** for human presence detection.
-* Built using **Python** for software recognition workflows and **Arduino** for hardware control.
+- Wireless target-angle transmission
+- IMU-based angle measurement
+- Servo-based platform response
+- UDP and UART communication
 
-#### 🪖 [Smart Helmet for Rider Safety]
-* IoT-enabled helmet prototype designed for real-time safety monitoring and accident prevention.
-* Features live location tracking (**GPS**), alcohol detection, and rider drowsiness/fatigue monitoring (**IR sensor**).
-* Programmed sensor interfacing and logic control using **Arduino**.
+[View Project Repository](YOUR_PROJECT_REPOSITORY_LINK)
 
----
+## 📚 Currently Learning
+- Embedded C programming
+- Microcontroller architecture
+- Sensor interfacing
+- Communication protocols
+- Embedded hardware debugging
 
-### 💬 Connect with Me
-
-* 📧 **Email:** nitinbedsur0919@gmail.com
-* 💼 **LinkedIn:** [Nitin Bedsur](https://linkedin.com/in/nitin-bedsur-484b7b397)
-* 📍 **Location:** Hubballi, Karnataka, India
-* 🗣️ **Languages:** English | Kannada | Hindi
+## 📫 Connect With Me
+- LinkedIn:linkedin.com/in/nitin-bedsur
+- GitHub: github.com/Nitinbedsur
